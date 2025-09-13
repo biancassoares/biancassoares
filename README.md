@@ -10,11 +10,10 @@
 - **Tools**: Git, VS Code, MySQL e Oracle
 
 ## Projects Highlights
-### Mini eCommerce de Maquiagem
-- Sistema de controle de vendas com cadastro de clientes, produtos e pedidos  
-- Implementado com **Python + SQL**  
-- Scripts para criar e popular o banco de dados disponíveis no repositório  
-
+### eCommerce 
+- Sales control system with customer, product, and order registration
+- Implemented with Python + SQL
+- Scripts to create and populate the database available in the repository
   
   ##
   <div> <a href = "mailto:bianca.soares0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
