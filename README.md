@@ -6,7 +6,7 @@
 - 🌱 Currently learning: **Power BI, Excel**  
 
 ## Skills
-- **Languages**: Python, JavaScript, HTML, CSS, C, C++, SQL
+- **Languages**: Python, Java, JavaScript, HTML, CSS, C, C++, SQL
 - **Tools**: Git, VS Code, MySQL e Oracle
 
 ## Projects Highlights
