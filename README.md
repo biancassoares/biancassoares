@@ -4,6 +4,8 @@ Hi! I'm Bianca, a Junior Backend Developer passionate about building scalable an
 
 🎓 Computer Programming graduate from Seneca Polytechnic (Canada)
 
+☕ Java | 🌱 Spring Boot | 🐘 PostgreSQL | 🐳 Docker | Maven
+
 💻 Currently focusing on backend development with:
 - ☕ Java
 - 🌱 Spring Boot
@@ -25,45 +27,11 @@ Hi! I'm Bianca, a Junior Backend Developer passionate about building scalable an
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-☕ Java | 🌱 Spring Boot | 🐘 PostgreSQL | 🐳 Docker | Maven
-
-### Frontend
-⚛️ JavaScript | TypeScript | Next.js | HTML | CSS
-
 ### Tools
-🔧 Git | GitHub | VS Code | IntelliJ IDEA
+🔧 Git | GitHub | VS Code | IntelliJ 
 
 ---
 
-## 🚀 Featured Projects
-
-### 💳 Transaction API
-A REST API for managing financial transactions.
-
-**Technologies:**
-- Java
-- Spring Boot
-- PostgreSQL
-- Docker
-
-### 📊 Investment Dashboard
-A dashboard application focused on displaying and organizing investment data.
-
-**Technologies:**
-- TypeScript
-- Next.js
-- APIs
-
----
-
-## 📫 Let's Connect
-
-💼 LinkedIn: [Your LinkedIn Link]
-
-🌐 Portfolio: [Your Portfolio Link]
   <div> <a href = "mailto:bianca.soares0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
