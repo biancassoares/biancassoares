@@ -19,10 +19,7 @@
   <div> <a href = "mailto:bianca.soares0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancassoares&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancassoares&layout=compact&theme=default"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancassoares&layout=compact&theme=default"/>
  
 
 <picture align="center">
