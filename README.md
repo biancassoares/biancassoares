@@ -1,21 +1,69 @@
+## 👩‍💻 About Me
 
-# Hello, I'm Bianca 👋
+Hi! I'm Bianca, a Junior Backend Developer passionate about building scalable and well-structured applications.
 
-- 🎓 Recent Computer Programming graduate from Seneca Polytechnic, Toronto, Canada  
-- 💻 Passionate about **data analysis** and programming  
-- 🌱 Currently learning: **Power BI, Excel**  
+🎓 Computer Programming graduate from Seneca Polytechnic (Canada)
 
-## Skills
-- **Languages**: Python, Java, JavaScript, HTML, CSS, C, C++, SQL
-- **Tools**: Git, VS Code, MySQL e Oracle
+💻 Currently focusing on backend development with:
+- ☕ Java
+- 🌱 Spring Boot
+- 🐘 PostgreSQL
+- 🐳 Docker
+- 🔧 Git & GitHub
 
-## Projects Highlights
-### eCommerce 
-- Sales control system with customer, product, and order registration
-- Implemented with Python + SQL
-- Scripts to create and populate the database available in the repository
-  
-  ##
+🚀 I enjoy creating projects to improve my skills in:
+- REST APIs
+- Database design
+- Object-Oriented Programming
+- Software architecture fundamentals
+
+📚 Currently learning and improving my knowledge of:
+- Spring Boot ecosystem
+- Testing with JUnit
+- Clean Code principles
+- Backend best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+☕ Java | 🌱 Spring Boot | 🐘 PostgreSQL | 🐳 Docker | Maven
+
+### Frontend
+⚛️ JavaScript | TypeScript | Next.js | HTML | CSS
+
+### Tools
+🔧 Git | GitHub | VS Code | IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Transaction API
+A REST API for managing financial transactions.
+
+**Technologies:**
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+
+### 📊 Investment Dashboard
+A dashboard application focused on displaying and organizing investment data.
+
+**Technologies:**
+- TypeScript
+- Next.js
+- APIs
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn: [Your LinkedIn Link]
+
+🌐 Portfolio: [Your Portfolio Link]
   <div> <a href = "mailto:bianca.soares0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
