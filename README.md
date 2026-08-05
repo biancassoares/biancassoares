@@ -1,6 +1,6 @@
-## Hi there! 👋🏻
+## Hi there! 👋
 
-I'm Bianca, a Junior Backend Developer recent graduate from Seneca Polytechnic (Canada) passionate about building scalable and well-structured applications.
+👩🏼‍💻 I'm Bianca, a Junior Backend Developer recent graduate from Seneca Polytechnic (Canada) passionate about building scalable and well-structured applications. 👩🏼‍💻
 
 ☕ Java | 🌱 Spring Boot | 🐘 PostgreSQL | 🐳 Docker | Maven
 
