@@ -17,12 +17,6 @@
 - Object-Oriented Programming
 - Software architecture fundamentals
 
-📚 Currently learning and improving my knowledge of:
-- Spring Boot ecosystem
-- Testing with JUnit
-- Clean Code principles
-- Backend best practices
-
 ---
 
 ### Tools
