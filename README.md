@@ -2,7 +2,7 @@
 
 👩🏼‍💻 I'm Bianca, a Junior Backend Developer and recent graduate from Seneca Polytechnic (Canada), passionate about building scalable and well-structured applications.
 
-🌐 <a href="biancasoares.vercel.app"><strong>Check out my portfolio </strong></a> 
+🌐 <a href="https://biancasoares.vercel.app/"><strong>Check out my portfolio </strong></a> 
 
 ☕ Java | 🌱 Spring Boot | 🐘 PostgreSQL | 🐳 Docker | 🔧 Git & GitHub
 
